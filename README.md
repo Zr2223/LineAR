@@ -49,14 +49,14 @@ Additionally, LineAR achieves significant memory and throughput gains, including
 
 2️⃣ **Sota performance**
 <div align="center">
-  <img src="assets/comparision.png" alt="Comparision" width="100%">
+  <img src="assets/comparision.png" alt="Comparision" width="80%">
   <br>
-  <em> Comparision with other methods. LineAR shows the best generation quality.</em>
+  <em> Comparison with other methods. LineAR shows the best generation quality.</em>
 </div>
 
 3️⃣ **Efficiency**
 <div align="center">
-  <img src="assets/efficiency.png" alt="Efficiency" width="100%">
+  <img src="assets/efficiency.png" alt="Efficiency" width="80%">
   <br>
   <em> LineAR demonstrates high efficiency in memory saving and throughput speedup across different architectures, sizes, and generation resolutions.</em>
 </div>
