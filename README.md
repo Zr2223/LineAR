@@ -47,12 +47,16 @@ Additionally, LineAR achieves significant memory and throughput gains, including
   <em> Class-conditional image generation results on LlamaGen-XXL (left) and LlamaGen-XL (right).</em>
 </div>
 
+---
+
 2️⃣ **Sota performance**
 <div align="center">
   <img src="assets/comparision.png" alt="Comparision" width="80%">
   <br>
   <em> Comparison with other methods. LineAR shows the best generation quality.</em>
 </div>
+
+---
 
 3️⃣ **Efficiency**
 <div align="center">
@@ -75,3 +79,17 @@ Additionally, LineAR achieves significant memory and throughput gains, including
 
 ## 📢 News
 * **[2025-12-04]** ArXiv paper available. Code will be released soon!
+
+---
+## Citation
+
+If you find this project helpful, please kindly consider citing our paper 😊.
+
+```
+@article{qin2025autoregressive,
+  title={Autoregressive Image Generation Needs Only a Few Lines of Cached Tokens},
+  author={Qin, Ziran and Lv, Youru and Lin, Mingbao and Zhang, Zeren and Gan, Chanfan and Chen, Tieyuan and Lin, Weiyao},
+  journal={arXiv preprint arXiv:2512.04857},
+  year={2025}
+}
+```
