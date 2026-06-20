@@ -4,7 +4,7 @@
 </div>
 <div align="center">
 
-# Autoregressive Image Generation Needs Only a Few Lines of Cached Tokens
+# Autoregressive Image Generation Needs Only a Few Lines of Cached Tokens (ECCV 2026)
 
 <!-- [Ziran Qin](https://github.com/Zr2223)<sup>1</sup>, Youru Lv<sup>1*</sup>, Mingbao Lin<sup>2</sup>, Zeren Zhang<sup>3</sup>, <br> Chaofan Gan<sup>1</sup>, Tieyuan Chen<sup>1</sup>, Weiyao Lin<sup>1*</sup> -->
 
